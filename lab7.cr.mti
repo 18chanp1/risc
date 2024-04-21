@@ -1,0 +1,134 @@
+{C:/Users/henry/Documents/Verilog Projects/lab7/mux2b.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/mux2b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux2b
+
+Top level modules:
+	Mux2b
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/regfile.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/cpu.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/cpu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/ram.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/instructionDecoder.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/instructionDecoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module instructionDecoder
+
+Top level modules:
+	instructionDecoder
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine_tb.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stateMachine_tb
+
+Top level modules:
+	stateMachine_tb
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/vDFFE.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/vDFFE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFFE
+
+Top level modules:
+	vDFFE
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top_tb.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_top_tb
+
+Top level modules:
+	lab7_top_tb
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/shifter.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/shifter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/mux3.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/mux3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux3
+
+Top level modules:
+	Mux3
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/decoder.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Dec
+
+Top level modules:
+	Dec
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/vDFF.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/vDFF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFF
+
+Top level modules:
+	vDFF
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/mux4.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/mux4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux4
+
+Top level modules:
+	Mux4
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stateMachine
+
+Top level modules:
+	stateMachine
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/datapath.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_top
+
+Top level modules:
+	lab7_top
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/lab7_autograder_check.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/lab7_autograder_check.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_check_tb
+
+Top level modules:
+	lab7_check_tb
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/alu.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/henry/Documents/Verilog Projects/lab7/mux8.v} {1 {vlog -work work -stats=none {C:/Users/henry/Documents/Verilog Projects/lab7/mux8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux8
+
+Top level modules:
+	Mux8
+
+} {} {}}

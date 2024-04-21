@@ -1,0 +1,421 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/henry/Documents/Verilog Projects/lab6/ModelSim
+vALU
+Z0 !s110 1638140543
+!i10b 1
+!s100 EO`[R:F6GASzVYS;L1o_z0
+I;kg_YLmNnK_LLLm[gNliS3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/henry/Documents/Verilog Projects/lab7
+w1637693083
+8C:/Users/henry/Documents/Verilog Projects/lab7/alu.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/alu.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1638140543.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vcpu
+!s110 1638147147
+!i10b 1
+!s100 _=;HmB`H?9H_7L:L23[370
+IXaAe]eb[_dc^1@cdkVT2j2
+R1
+R2
+w1638147139
+8C:/Users/henry/Documents/Verilog Projects/lab7/cpu.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/cpu.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1638147147.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/cpu.v|
+!i113 1
+R5
+R6
+vdatapath
+R0
+!i10b 1
+!s100 b:>aQzo8^25_8B4;1z:=<3
+Iz8f]VZMFU?iEYLS:O5S6@1
+R1
+R2
+w1638126626
+8C:/Users/henry/Documents/Verilog Projects/lab7/datapath.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/datapath.v|
+!i113 1
+R5
+R6
+vDec
+R0
+!i10b 1
+!s100 ;8<VoWfiNFUWYPknRD62D2
+IWz<V7h<SHQlgAPCn=gm7H0
+R1
+R2
+w1637276222
+8C:/Users/henry/Documents/Verilog Projects/lab7/decoder.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/decoder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/decoder.v|
+!i113 1
+R5
+R6
+n@dec
+vinstructionDecoder
+R0
+!i10b 1
+!s100 HH:fQ_e9nTBT9AZJnjZ@o2
+IG=Z7gnBMiiNc:RB]G72jF2
+R1
+R2
+w1637692861
+8C:/Users/henry/Documents/Verilog Projects/lab7/instructionDecoder.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/instructionDecoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/instructionDecoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/instructionDecoder.v|
+!i113 1
+R5
+R6
+ninstruction@decoder
+vlab7_check_tb
+Z7 !s110 1638140544
+!i10b 1
+!s100 3nWUiCm;R9M@WRSO;57FW2
+If]2[SLa?8>Dd>J;@9PiZ?1
+R1
+R2
+w1637552118
+8C:/Users/henry/Documents/Verilog Projects/lab7/lab7_autograder_check.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/lab7_autograder_check.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/lab7_autograder_check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/lab7_autograder_check.v|
+!i113 1
+R5
+R6
+vlab7_top
+Z8 !s110 1638236837
+!i10b 1
+!s100 g^zf0VhCa8_>:OQ@FiFEk0
+I5H0bTHam70[H7cSF]^QD60
+R1
+R2
+w1638236796
+8C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/lab7_top.v
+L0 5
+R3
+r1
+!s85 0
+31
+Z9 !s108 1638236837.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top.v|
+!i113 1
+R5
+R6
+vlab7_top_tb
+R8
+!i10b 1
+!s100 VFVKILc6S<hN5?<ZL61NW0
+Im>52N5;7iAoE]=1:T:CA72
+R1
+R2
+w1638236750
+8C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top_tb.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/lab7_top_tb.v
+L0 11
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/lab7_top_tb.v|
+!i113 1
+R5
+R6
+vMux2b
+!s110 1638146608
+!i10b 1
+!s100 7>DNXm9nPUegBS4X9Zhb40
+I^GV8XC@gBL>ZYR7X:8F:L3
+R1
+R2
+w1638146595
+8C:/Users/henry/Documents/Verilog Projects/lab7/mux2b.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/mux2b.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1638146608.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/mux2b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/mux2b.v|
+!i113 1
+R5
+R6
+n@mux2b
+vMux3
+R7
+!i10b 1
+!s100 jVhYbECLWhmV8odUM0N523
+I[ohdTe[95Y9;QQ36JmWo<3
+R1
+R2
+w1636940293
+8C:/Users/henry/Documents/Verilog Projects/lab7/mux3.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/mux3.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z10 !s108 1638140544.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/mux3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/mux3.v|
+!i113 1
+R5
+R6
+n@mux3
+vMux4
+R7
+!i10b 1
+!s100 dT]k]33ZfJHYzMUI]ik]I1
+I7TbX[FWOm6<48KI:NhXnB3
+R1
+R2
+w1637263389
+8C:/Users/henry/Documents/Verilog Projects/lab7/mux4.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/mux4.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/mux4.v|
+!i113 1
+R5
+R6
+n@mux4
+vMux8
+R7
+!i10b 1
+!s100 BC2:lDOLl8m1ZC:z7mTWA2
+I`0Va0M5Ik6nZZa_mNQY023
+R1
+R2
+w1636940287
+8C:/Users/henry/Documents/Verilog Projects/lab7/mux8.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/mux8.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/mux8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/mux8.v|
+!i113 1
+R5
+R6
+n@mux8
+vRAM
+R7
+!i10b 1
+!s100 O[>g?]=5HgTBV<TCiVe6^3
+I_EkC1>e=:DSA1oRo3gIMa3
+R1
+R2
+w1638140205
+8C:/Users/henry/Documents/Verilog Projects/lab7/ram.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/ram.v
+L0 9
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/ram.v|
+!i113 1
+R5
+R6
+n@r@a@m
+vregfile
+Z11 !s110 1638140545
+!i10b 1
+!s100 TjRWKQYCKd4zUU397AZ6R2
+IF2a53ALYWDY8fCXDn`A7S1
+R1
+R2
+w1637536325
+8C:/Users/henry/Documents/Verilog Projects/lab7/regfile.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/regfile.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1638140545.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/regfile.v|
+!i113 1
+R5
+R6
+vshifter
+R11
+!i10b 1
+!s100 X8<L;;j>klj^<zDMl6nZ73
+I@UOU<MjN0lNB=cR:4:gB22
+R1
+R2
+w1636934769
+8C:/Users/henry/Documents/Verilog Projects/lab7/shifter.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/shifter.v|
+!i113 1
+R5
+R6
+vstateMachine
+Z13 !s110 1638227299
+!i10b 1
+!s100 SOjReFdOTZOczRa6@8?g12
+I>4Q5cQehjA07SUU75?<:60
+R1
+R2
+w1638227266
+8C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/stateMachine.v
+L0 37
+R3
+r1
+!s85 0
+31
+Z14 !s108 1638227299.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine.v|
+!i113 1
+R5
+R6
+nstate@machine
+vstateMachine_tb
+R13
+!i10b 1
+!s100 >P1egCdJ`olZQU38hmHcM0
+Izo[73KCK_SIRDn2AG_mBa2
+R1
+R2
+w1638226507
+8C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine_tb.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/stateMachine_tb.v
+L0 58
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/stateMachine_tb.v|
+!i113 1
+R5
+R6
+nstate@machine_tb
+vvDFF
+!s110 1638143442
+!i10b 1
+!s100 00KB@bIg`3OI8J?=CH6L`1
+IZ;g]6Qo?HllWeMl5InKnk3
+R1
+R2
+w1638143427
+8C:/Users/henry/Documents/Verilog Projects/lab7/vDFF.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/vDFF.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1638143442.000000
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/vDFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/vDFF.v|
+!i113 1
+R5
+R6
+nv@d@f@f
+vvDFFE
+R0
+!i10b 1
+!s100 Fm6E?C0jJkC9SCUDNK7C<2
+IbV8XhIHB32UIR0_I85Z2I1
+R1
+R2
+w1636935220
+8C:/Users/henry/Documents/Verilog Projects/lab7/vDFFE.v
+FC:/Users/henry/Documents/Verilog Projects/lab7/vDFFE.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/henry/Documents/Verilog Projects/lab7/vDFFE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/henry/Documents/Verilog Projects/lab7/vDFFE.v|
+!i113 1
+R5
+R6
+nv@d@f@f@e
